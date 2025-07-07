@@ -1,4 +1,4 @@
-# robot-arm-project-
+# robot-arm-project
 🤖 3D Robot Arm – Tinkercad
 
 This is a simple 3D model of a robotic arm designed using Tinkercad.
